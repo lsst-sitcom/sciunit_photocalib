@@ -12,11 +12,14 @@
 - to prevent images inside the notebook, I have installed a pre-commit hook to clear the notebooks before commit.
 I have  followed the instructions on this page https://zhauniarovich.com/post/2020/2020-06-clearing-jupyter-output/
 
+Basically I have run run the command at top level of the package:
 
+      `$ pre-commit install`
+      
+and edit a pre-commit config file `.pre-commit-config.yaml`.
 
-I could run the following command by hand
+Otherwise I could run the following command by hand:
 
-     jupyter nbconvert --ClearOutputPreprocessor.enabled=True --inplace *.ipynb
-
+      `$ jupyter nbconvert --ClearOutputPreprocessor.enabled=True --inplace *.ipynb`
 
 But the pre-commit hook help me if I forget to run this command.
