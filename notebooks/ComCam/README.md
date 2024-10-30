@@ -3,7 +3,7 @@
 - author : Sylvie Dagoret-Campagne
 - affiliation : IJCLab/IN2P3/CNRS
 - creation date : 2024-10-27
-- last update : 2024-10-27
+- last update : 2024-10-30
 
 
 ## Notebook showing the images and the focal plane image
@@ -18,6 +18,5 @@
 
 
 ## Notebook with DM Mosaic
-- **2024-10-30_ComCam_FirstLook_matplotlib-dmtruemosaic.ipynb** : Not showing
+- **2024-10-30_ComCam_FirstLook_matplotlib-dmtruemosaic.ipynb** : OK
 
-- 
