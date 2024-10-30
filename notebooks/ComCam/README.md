@@ -14,4 +14,10 @@
 
 ## Notebook trying to show the whole focal plane
 - **2024-10-26_ComCam_FirstLook_matplotlib-mosaic.ipynb** : OK
-- **2024-10-27_ComCam_FirstLook_firefly-mosaic.ipynb** : To be implemented
+- **2024-10-27_ComCam_FirstLook_firefly-mosaic.ipynb** : OK
+
+
+## Notebook with DM Mosaic
+- **2024-10-30_ComCam_FirstLook_matplotlib-dmtruemosaic.ipynb** : Not showing
+
+- 
