@@ -7,7 +7,7 @@
 
 
 Note these notebok are under the coontrol of a pre-commit hook.
-Theycannot render images on github.
+They cannot render images on github.
 
 
 ## Notebook showing the images and the focal plane image
