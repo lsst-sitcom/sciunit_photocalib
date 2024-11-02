@@ -26,5 +26,5 @@ They cannot render images on github.
 
 ## Notebook with Calexp DM Mosaic:
 - **2024-10-31_ComCam_FirstLook_matplotlib-dmtruemosaic-calexp.ipynb** : OK
-- **2024-10-31_ComCam_FirstLook_matplotlib-dmtruemosaic-calexpbackground.ipynb** : Not working because images from calexpbackground are not the same as calexp
+- **2024-10-31_ComCam_FirstLook_matplotlib-dmtruemosaic-calexpbackground.ipynb** : OK since 2024-11-02
 
