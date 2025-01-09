@@ -3,7 +3,7 @@
 - author : Sylvie Dagoret-Campagne
 - affiliation : IJCLab/IN2P3/CNRS
 - creation date : 2024-10-27
-- last update : 2024-11-02
+- last update : 2025-01-09 : w_2024_50
 
 
 Note these notebok are under the coontrol of a pre-commit hook.
