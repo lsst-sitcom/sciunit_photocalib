@@ -1,0 +1,4 @@
+04 June 2025
+------------
+Currently copying outpts to ~/DATA/SP-1736/sciunit_photocalib/ .
+
